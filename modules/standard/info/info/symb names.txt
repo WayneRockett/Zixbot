@@ -1,0 +1,43 @@
+<header> :::::: List of Symbiant Names :::::: <end>
+
+Below you can see a list of Symbiant names and QL's.
+Also displayed is the amount of treatment needed to fit that QL level symb,
+and what your ability skill needs to be, and finally the level.
+
+<header2>QL  | Name            | Treat | Abili | Level<end>
+1   | Unconscious     | 12    | 3     |
+5   | Moronic         | 36    | 12    |
+10  | Ignorant        | 65    | 23    | 8
+15  | Inattentive     | 95    | 35    | 11
+20  | Lethargic       | 124   | 46    | 15
+25  | Neglectful      | 154   | 57    | 19
+30  | Sleeping        | 183   | 69    | 22
+40  | Sluggish        | 242   | 91    | 30
+50  | [None in Game]
+60  | Lulled          | 361   | 136   | 44
+70  | Animated        | 420   | 159   | 52
+80  | Moving          | 479   | 181   | 59
+90  | Vibrating       | 538   | 203   | 66
+100 | Breathing       | 597   | 226   | 73
+110 | Operative       | 656   | 249   | 81
+120 | Prevailing      | 715   | 271   | 88
+130 | Residing        | 774   | 293   | 95
+140 | Running         | 833   | 316   | 103
+150 | Surviving       | 892   | 339   | 110
+160 | Working         | 951   | 361   | 117
+170 | Active          | 1011  | 383   | 125
+180 | Awakened        | 1070  | 406   | 132
+190 | Enduring        | 1129  | 429   | 139
+200 | Growing         | 1188  | 451   | 146
+210 | Living          | 1342  | 683   | 154
+220 | Persisting      | 1406  | 716   | 161
+230 | Vigorous        | 1470  | 749   | 168 
+240 | Effective       | 1533  | 781   | 176
+250 | Excited         | 1724  | 1063  | 183
+260 | Vital           | 1797  | 1106  | 190
+270 | Cognizant       | 1870  | 1149  | 198
+280 | Alert           | 1942  | 1191  | 205
+290 | Conscious       | 2015  | 1233  | 212
+300 | Intelligent     | 2088  | 1276  | 219
+
+<highlight>Written by DisoDoctor(Bug Busters) (RK2)<end>

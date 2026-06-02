@@ -1,5 +1,7 @@
 @echo off
 
+cd /d "%~dp0"
+
 SET PYTHON_BIN=.\win32\Python3.12.7\python.exe
 
 IF EXIST .\venv\ GOTO install_requirements

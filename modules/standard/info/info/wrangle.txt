@@ -1,3 +1,5 @@
+<header> :::::: Guide to Wrangles :::::: </header>
+
 Regular wrangles are in <font color = yellow>YELLOW</font>
 Team wrangles are in <font color = white>WHITE</font> (requires teaming with Trader to have it cast)
 

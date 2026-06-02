@@ -1,0 +1,43 @@
+<header> :::::: Arul Saba Bracelets :::::: <end>
+
+This information is about level 100+ Arul Saba bracelets only.
+
+<header2>Gem Types<end>
+
+Bruised Brawler - Melee damage
+Burning Plasma - Energy damage
+Corroded Glory - Chemical damage
+Eternal Juggernaut - Max health
+Frozen Tundra - Cold damage
+Infinite Moebius - Nano Resist and Max Nano
+Jagged Landscape - Projectile damage
+Rainbow-hued Sky - Radiation damage
+Searing Desert - Fire damage
+Silent Killer - Poison damage
+
+<header2>Gem Slots, Locations and Requirements<end>
+
+All previous gems are also required, so 5 Gem Bracelets needs Galactic, Stellar, Emporer, Monarch, and Arbiter Gems.
+
+1 Gem (Arbiter / Scheol) - Level <highlight>100<end> - <highlight>288<end>ME / <highlight>306<end>EE
+2 Gem (Monarch / Adonis) - Level <highlight>150<end> - <highlight>528<end>ME / <highlight>563<end>EE
+3 Gem (Emporer / Penumbra) - Level <highlight>185<end> - <highlight>937<end>ME / <highlight>1035<end>EE
+4 Gem (Stellar / Inferno) - Level <highlight>202<end> - <highlight>1665<end>ME / <highlight>1775<end>EE
+5 Gem (Galactic / Alappaa) - Level <highlight>215<end> - <highlight>2100<end>ME / <highlight>2270<end>EE
+
+Defrosting Galactic Gems from Alappaa requires 1800 Chemistry
+
+<header2>Other materials and QL requirements<end>
+
+Unbalanced Bracelet Blueprints QL: <highlight>80 / 110 / 150 / 180 / 200<end> x 1. Buy from Arul Saba.
+Balance Adjuster Left / Right QL: <highlight>10<end> x 1. Buy from Arul Saba.
+Small Silver Ingot QL: <highlight>56+ / 77+ / 106+ / 126+ / 140+<end> x 1 per Gem + 1 (<highlight>6<end> for a 5 Gem). Acquire in various ways.
+Robot Junk QL: <highlight>42+ / 58+ / 79+ / 95+ / 105+<end> x 1 per gem (<highlight>5<end> for a 5 Gem). Slayerdroids across the ferry from Harry's.
+Personal Furnace QL: <highlight>10<end> x 1 per Gem + 1 (1 per ingot, <highlight>6<end> for a 5 Gem). Buy from shop or Arun Saba.
+Nano Circuitry Wire QL <highlight>28+ / 39+ / 53+ / 63+ / 70+<end> x 2 per gem (<highlight>10<end> for a 5 Gem). Buy from Arul Saba.
+
+<header2>Other Tradeskills<end>
+
+There are EE and ME requirements for other steps in the process, but they would usually be lower than those for attaching the gems: 1000+ in each should be sufficient which is required for 3+ bracelets in any case. 
+
+<font color = red>Information summarised from ao-universe.com by Eltbus.</font>

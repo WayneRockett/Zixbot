@@ -1,0 +1,48 @@
+<header> :::::: Symbiants By Profession :::::: <end>
+
+Below you can see which Symbs your profession can use.
+
+<header2>Adventurer<end>
+<font color = red>Artillery</font>, <font color = green>Infantry</font>, <font color = aqua>Support</font>
+
+<header2>Agent<end>
+<font color = red>Artillery</font>
+
+<header2>Bureaucrat<end>
+<font color = yellow>Control</font>, <font color = lime>Extermination</font>
+
+<header2>Doctor<end>
+<font color = aqua>Support</font>
+
+<header2>Fixer<end>
+<font color = red>Artillery</font>, <font color = aqua>Support</font>
+
+<header2>Enforcer<end>
+<font color = green>Infantry</font>
+
+<header2>Engineer<end>
+<font color = yellow>Control</font>
+
+<header2>Keeper<end>
+<font color = green>Infantry</font>, <font color = aqua>Support</font>
+
+<header2>Martial Artist<end>
+<font color = green>Infantry</font>, <font color = aqua>Support</font>
+
+<header2>Meta-Physicist<end>
+<font color = yellow>Control</font>, <font color = lime>Extermination</font>, <font color = aqua>Support</font>
+
+<header2>Nano-Technician<end>
+<font color = lime>Extermination</font>
+
+<header2>Shade<end>
+Uses Spirits
+
+<header2>Soldier<end>
+<font color = red>Artillery</font>
+
+<header2>Trader<end>
+<font color = red>Artillery</font>, <font color = yellow>Control</font>, <font color = aqua>Support</font>
+
+
+<highlight>Written by DisoDoctor(Bug Busters) (RK2)<end>

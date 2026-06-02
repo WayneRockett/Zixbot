@@ -1,0 +1,19 @@
+<header>Shadow Rifts</end>
+
+During RK Missions you may stumble across Shadow Rift buffs.  They give you a nice buff that will last for 3 minutes.
+
+Here is a guide to what they do.
+
+<font color = lime>Blessed by the Bear = Add extra Damage</font>
+<font color = Olive>Blessed by the Eagle = Add extra Evade Skills</font>
+<font color = lime>Blessed by the Firefly = Add extra Nanopoints</font>
+<font color = Olive>Blessed by the Frog = Add extra Sheild</font>
+<font color = lime>Blessed by the Phoenix = Heal Over Time</font>
+<font color = Olive>Blessed by the Spirits = XP Bonus</font>
+<font color = lime>Blessed by the Wolf = Add extra Inits</font>
+
+If you are doing a team mission, the letting the tank take the Eagle, Frog, Pheonix would be nice.  Firefly is also good for a tank, or healer.
+
+If you are doing a solo mission and find <font color = Olive>Blessed by the Spirits</font> you might want to leave it till the end, and then use it just before completing the mission so that you get the XP boost on the mission reward.
+
+<highlight>Disodoctor (Bug Busters)

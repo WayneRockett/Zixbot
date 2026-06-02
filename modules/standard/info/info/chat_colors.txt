@@ -1,0 +1,20 @@
+<header> :::::: AO Chat Colors (sic) :::::: <end>
+
+<header2>List of available chat script colors<end> 
+
+<font color = black>Black</font>
+<font color = gray>Gray</font>
+<font color = silver>Silver</font>
+<font color = white>White</font>
+<font color = maroon>Maroon</font>
+<font color = red>Red</font>
+<font color = yellow>Yellow</font>
+<font color = lime>Lime</font>
+<font color = green>Green</font>
+<font color = olive>Olive</font>
+<font color = teal>Teal</font>
+<font color = aqua>Aqua</font>
+<font color = blue>Blue</font>
+<font color = navy>Navy</font>
+<font color = fuchsia>Fucshia</font>
+<font color = purple>Purple</font>

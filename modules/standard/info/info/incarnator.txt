@@ -1,0 +1,32 @@
+<header> :::::: Incarnators :::::: <end>
+
+Below you can see QL each Incarnator can spawn.
+
+<header2>Nascense<end>
+<font color = red>Nascense = </font><font color = green>75</font>
+
+<header2>Elysium<end>
+<font color = red>South = </font><font color = green>115</font>
+<font color = red>North = </font><font color = green>130</font>
+
+<header2>Scheol<end>
+<font color = red>South = </font><font color = green>140</font>
+<font color = red>North = </font><font color = green>160</font>
+
+<header2>Adonis<end>
+<font color = red>East = </font><font color = green>170</font>
+<font color = red>West = </font><font color = green>190</font>
+
+<header2>Penumbra<end>
+<font color = red>West = </font><font color = green>200</font>
+<font color = red>East = </font><font color = green>215</font>
+
+<header2>Inferno<end>
+<font color = red>South = </font><font color = green>225</font>
+<font color = red>North = </font><font color = green>255</font>
+
+<header2>Pandemonium<end>
+<font color = red>Pandemonium = </font><font color = green>270</font>
+
+
+<highlight>Written by DisoDoctor(Bug Busters) (RK2)<end>

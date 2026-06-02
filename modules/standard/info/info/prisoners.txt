@@ -1,0 +1,44 @@
+<header> :::::: Escaped Prisoners :::::: <end>
+
+<font color = yellow>Warden Ystanes Waypoints</font>
+[<a  href='chatcmd:///waypoint 386 460 545'>Clan</a>] [<a  href='chatcmd:///waypoint 400 360 566'>Newt</a>] [<a  href='chatcmd:///waypoint 300 225 710'>Omni</a>]
+
+<font color = yellow>Prisoners /Special Attacks</font>
+
+<a  href='chatcmd:///waypoint 1460 1715 625'>Acidic</a>            Difficulty =  <font color = white>[<font color = lime>..<font color = green>..<font color = yellow>..<font color = red>|.<font color = maroon>..<font color = white>]
+  Blind
+  
+<a  href='chatcmd:///waypoint 375 725 625'>Burning</a>          Difficulty =  <font color = white>[<font color = lime>..<font color = green>..<font color = yellow>..<font color = red>.|<font color = maroon>..<font color = white>]
+  Debuff & NCU Wipe
+  
+<a  href='chatcmd:///waypoint 4565 370 625'>Dangerous</a>      Difficulty =  <font color = white>[<font color = lime>..<font color = green>..<font color = yellow>.|<font color = red>..<font color = maroon>..<font color = white>]
+  Init Debuff
+  
+<a  href='chatcmd:///waypoint 765 1025 625'>Deadly</a>           Difficulty =  <font color = white>[<font color = lime>..<font color = green>..<font color = yellow>..<font color = red>|.<font color = maroon>..<font color = white>]
+  High Damage
+  
+<a  href='chatcmd:///waypoint 3625 580 625'>Diseased</a>        Difficulty =  <font color = white>[<font color = lime>.|<font color = green>..<font color = yellow>..<font color = red>..<font color = maroon>..<font color = white>]
+  AC Debuff, Init and Def Debuff
+  
+<a  href='chatcmd:///waypoint 1060 925 625'>Explosive</a>        Difficulty =  <font color = white>[<font color = lime>..<font color = green>..<font color = yellow>|.<font color = red>..<font color = maroon>..<font color = white>]
+  High Crit
+  
+<a  href='chatcmd:///waypoint 1925 1875 625'>Murderous</a>      Difficulty =  <font color = white>[<font color = lime>.|<font color = green>..<font color = yellow>..<font color = red>..<font color = maroon>..<font color = white>]
+  Lowers heals to 1%
+  
+<a  href='chatcmd:///waypoint 2330 2210 625'>Poisonous</a>       Difficulty =  <font color = white>[<font color = lime>.|<font color = green>..<font color = yellow>..<font color = red>..<font color = maroon>..<font color = white>]
+  Nano and Heal Debuff
+  
+<a  href='chatcmd:///waypoint 2915 300 625'>Silenced</a>         Difficulty =  <font color = white>[<font color = lime>..<font color = green>.|<font color = yellow>..<font color = red>..<font color = maroon>..<font color = white>]
+  NCU Wipe, Drain Pool, Init and Def Debuff, Reflect Debuff
+  
+<a  href='chatcmd:///waypoint 880 630 625'>Spiritual</a>          Difficulty =  <font color = white>[<font color = lime>..<font color = green>..<font color = yellow>..<font color = red>.|<font color = maroon>..<font color = white>]
+  NCU Nano Distuption, Drain Pool, Lower Reflects, Bomb Pets
+  
+<a  href='chatcmd:///waypoint 3150 2125 625'>Temporal</a>        Difficulty =  <font color = white>[<font color = lime>..<font color = green>..<font color = yellow>..<font color = red>..<font color = maroon>|.<font color = white>]
+  Debuff
+  
+<a  href='chatcmd:///waypoint 4950 810 625'>Umbral</a>           Difficulty =  <font color = white>[<font color = lime>..<font color = green>|.<font color = yellow>..<font color = red>..<font color = maroon>..<font color = white>]
+  Lowers heals to 1%, NCU and Nano Disruption
+
+

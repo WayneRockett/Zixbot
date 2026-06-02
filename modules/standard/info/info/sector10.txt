@@ -1,0 +1,111 @@
+<header> :::::: Guide To Sector 10  :::::: <end>
+
+<header2>How to get there: (Make sure you have inv space and backpacks)<end>
+
+Head to the Unicorn outpost (ICC Transport, use the lift, head behind the Unicorns.  Once down the stairs use the same elevator for Sectors 13/28/35
+
+<font color = green>Missions</font>
+
+Talk to the Unicorn Duty Sergeant located to the east in the outpost. There are five missions to get from him.
+
+<font color = blue>Kill 5 Alien Medics
+Kill 5 Alien Communication Officers
+Kill 5 Alien Leaders (Small Generals)
+Collect 5 Alien DNA (Cage them)
+Kill 20 Alien Immature Vectors</font>
+
+You might as well get all the missions.
+
+<header2>Sector 10 - Playfield<end>
+
+<font color = red>-=-WARNING-=- </font>Regeneration Conducts, these snare you and heal mobs near you, so kill these first when you see them.
+<font color = yellow>TIP </font>If you are melee and cannot hit them because you are too far away and snared, you might find you move quicker walking than running.
+
+<font color = green>Loot</font>
+
+The aliens will drop lots of loot (hence the bring backpacks), the common aliens drop:
+
+Kyr'Ozch Weapons.
+Alien Armor Materials (For AI Tank Armors)
+Alien Activation Crystal (Tradeskill)
+Solid Clump of Kyr'Ozch Bio-Material 
+Clumps of Kyr'Ozch Bio-Material.
+Alien Data Storage Crystal - Insight (Alien Augmentation Devices)
+Inactive Nano Input Hood (Used for AI City General Hoods, Swatchs)
+
+They also drop items, used for making pocket bosses spawning items.
+
+Alpha Signal Relay
+Rho Signal Relay
+Sigma Signal Relay
+Kappa Signal Relay
+
+<font color = green>Items required for making Signal Relays</font>
+
+4 x Broken and Powerless Signal Amplifier
+4 x Kyr'ozch Fuel Gland
+Inert Kyr'ozch Teleportation Relay
+
+<font color = green>Items for Tools to type the Signal Relays</font>
+
+X Compiler Unit (4 different types, one for each boss)
+X Crystal - Left Fragment (4 different types, one for each boss)
+X Crystal - Right Fragment (4 different types, one for each boss)
+
+<header2>Tradeskilling a Relay<end>
+
+Combine 4 Broken and Powerless Signal Amplifiers together. (625 ME) to get Powerless Kyr'ozch Signal Amplifier
+Combine fuel gland x 4 with Telportation relay to end up with Powered Kyr'ozch Teleportation Relay (625 EE)
+Powerless Kyr'ozch Signal Amplifier + Powered Kyr'ozch Teleportation Relay to get Untuned Kyr'ozch Signal Relay (687 EE & ME)
+Combine an X crystal right fragment with a left fragment to get X Tuning Crystal (625 NP)
+Then the X Tuning crystal with a X Compiler unit to get X Tuning Unit - Inactive (687 NP)
+
+You can use an outside tradeskiller to do the above.
+
+Right click the inactive tuning unit to active it (this makes it <font color = red>NODROP</font>.
+
+Combine Untuned Kyr'Ozch Signal Relay with the Tuning unit (not used in the process, and no tradeskills needed) to get an X Signal Relay to pop one of these bosses.
+
+Rho: East General
+Sigma: North General
+Kappa: West general
+Alpha: Middle General
+
+<header2>Alien Pocketbosses<end>
+
+From the center area of the playfield, you can get to the boss spawn points.  You will reach a fence, and need to click a box on the ground to cross.  This should run a program in your NCU (Alien Bio-Transmission Encoder) to allow you to cross safely.
+
+Do the same when leaving.
+
+To spawn a boss, target the Teleport ring in the middle of the spawn area, and right click the finished signal relay.
+
+The bosses are
+
+<font color = green>Rho- Ilari Khazon Ra</font>   <font color = green>DIFFICULTY 3/10</font>
+
+Easy, spawns adds, but you can probably kill him and ignore the adds.
+
+<font color = green>Sigma - Chemist Khazon Ra</font>   <font color = yellow>DIFFICULTY 5/10</font>
+
+Spawns flames that damage you, so stay out of the fire.
+
+<font color = green>Kappa - Ankari Khazon Ra</font>   <font color = brown>DIFFICULTY 7/10</font>
+
+Drains nano pool, fully, no heals, no mongo, nothing.  Just need to kill fast.
+
+<font color = green>Alpha - Cha Khazon Ra</font>   <font color = red>DIFFICULTY 9/10</font>
+
+Spawns tough adds, stop attacking, kill adds.
+
+<header2>Pocket Boss Loot<end>
+
+Inactive Alien Tank Armor
+Inactive Alien Material Conversion kit
+Inactive Alien Translation Device
+Inactive Alien Beacon
+Inactive Alien Battery
+Inactive Alien Reflex Modifier
+Efficient Controller Recompiler Unit
+Lead Viralbots
+
+<highlight>Written by Disodoctor (Bug Busters) RK2</highlight>

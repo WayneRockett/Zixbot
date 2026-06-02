@@ -1,0 +1,83 @@
+<header> :::::: SL Jump Off Points :::::: <end>
+
+A list of jump points from Shadowlands zones.
+
+<font color = red>Jobe</font>
+
+Harbour => Newland Lake
+Market => South West Luch Fields
+Plaza => Hollow Island (Belial Forest)
+
+<font color = yellow>TIP:</font> Plaza can be an alternate route for Enigma Dogs
+
+<font color = red>Nascense</font>
+
+Nascense => Jobe Research
+<font color = #eb8c34>Thrak Garden</font> => Brawl
+<font color = #34ebeb>Aban Garden</font> => Silence
+
+<font color = red>Elysium</font>
+
+South => Wartorn Valley
+East => Varmint Woods
+North => Clondyke
+West => Lush Fields
+<font color = #eb8c34>Shere Garden</font> => Sabre's Cradle
+<font color = #34ebeb>Enel Garden</font> => Ripwell
+<font color = #eb8c34>Shere Sanc</font> => Nero
+<font color = #34ebeb>Enel Sanc</font> => Shell Beach
+
+<font color = red>Scheol</font>
+
+South => Tir County (Handy for ToTW & IS)
+North => 4 Holes
+<font color = #eb8c34>Roch Garden</font> => N.W. Scheol (Teleporter)
+<font color = #34ebeb>Ocra Garden</font> => Clutching Light
+<font color = #eb8c34>Roch Sanc</font> => Last Save Point
+<font color = #34ebeb>Ocra Sanc</font> => Last Save Point
+
+<font color = yellow>TIP:</font> Save in the highest SL zone you can, and then you can get there by jumping from Scheol Sanc.
+
+<font color = red>Adonis</font>
+
+Adonis => Wailing Wastes	
+<font color = #eb8c34>Dalja Garden</font> => S.E Adonis 
+<font color = #34ebeb>Gilthar Garden</font> => S.W. Adonis
+<font color = #eb8c34>Dalja Sanc</font> => Central Abyss
+<font color = #34ebeb>Gilthar Sanc</font> => Central Abyss
+
+<font color = red>Penumbra</font>
+
+East => Belial Forest
+West => Southern Artery Valley
+<font color = #eb8c34>Vanya Garden</font> => QL200 Incarnator 
+<font color = #34ebeb>Cama Garden</font> => QL215 Incarnator
+<font color = #eb8c34>Vanya Sanc</font> => QL200 Incarnator
+<font color = #34ebeb>Cama Sanc</font> => QL200 Incarnator
+
+<font color = yellow>TIP:</font> East can be an alternate route for Enigma Dogs
+
+<font color = red>Inferno</font>
+
+Lower => Perpetual Wastelands
+Upper => Eastern Fouls Plains (Medussa/Tchu)
+<font color = #eb8c34>Mordeth Garden</font> => Dark Marshes
+<font color = #34ebeb>Galahad Garden</font> => Sorrow Outlook
+<font color = #eb8c34>Mordeth Sanc</font> => QL225 Incarnator
+<font color = #34ebeb>Galahad Sanc</font> => Razors Lair
+
+<font color = red>Pandemonium</font>
+
+Pandemonium => Omni HQ (Grid point just north)
+<font color = #eb8c34>Macciavelli Sanc</font> => Last Save Point
+<font color = #34ebeb>Dante Sanc</font> => Last Save Point
+
+<font color = green>Rubi-Ka</font>
+
+You can find broken SL statues just south of the Outpost whompahs in Wailing Wastes and 10-3 in Southern Artery Valley.
+
+Using your garden or sanc. key on these will take you to SL.
+
+Ergo can be found in Wailing Wastse, Greater Omni Forest and Stret West Bank, show him your ring to get to Elysium.
+
+<highlight>Written by Disodoctor (Bug Busters) RK5 now not RK2 :'(

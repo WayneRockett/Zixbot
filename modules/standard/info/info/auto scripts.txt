@@ -1,0 +1,118 @@
+<header> :::::: Auto Scripts :::::: <end>
+
+<header2>General<end> 
+
+In AO you can create some simple (and some complex) scripts to help you.
+There is lots of info online how to do this, but here we will show you a few easy ones.
+
+First, to show you how it works we will create a <font color = red>stop</font> command and a dancing script.
+The <font color = red>stop</font> command is an important one, we will explain it later.
+
+First, find your AO scirpt directory, it will be something like:
+
+c:\users\<YourWindowsUserName>\AppDate\Local\Funcom\Anarchy Online\<numbers and letters relating to your install>\Anarchy Online\scripts
+
+Once you have found your scripts folder go into it and create a new text file called <font color = red>stop</font> (so this file will be stop.txt)
+
+Right click the file and edit it (using Notepad to edit it is fine)
+
+In the file put the following
+
+<font color= green>/delay 1</font>
+
+Save and close.
+
+Now, create another file, this time call it dance (so the file will be dance.txt)
+
+Open it in Notepad and put the following
+
+<font color = green>/disco
+/delay 6000
+/dance.txt</font>
+
+Save and close.
+
+In AO, now type 
+
+<font color = yellow>/dance.txt</font>
+
+This will run the dance.txt script file.  First it will execute the disoc emote and start dancing.
+Then it will run delay 6000, which means wait for six seconds.
+Then it will run the dance.txt file, itself, so it will keep dancing forever.
+
+To stop dancing, type 
+
+<font color = yellow>/stop.txt</font>
+
+This will run the <font color = red>stop.txt</font> script, which simply wait 1/1000th of a second then stops running scripts.  
+
+You can add more to your dance script, by using other emotes, you can use /say to talk to vicinity, /whisper to whisper, etc etc.
+
+<header2>Auto Assist<end> 
+
+Hopefully you know what an assist macro is, now we are going to automate assisting.
+
+Create a new text file, call it aa so the file will be aa.txt.
+
+Open in Notepad and enter the following.
+
+<font color = green>/assist %1
+/delay 1000
+/aa.txt %1</font>
+
+The %1 means the first parameter that we pass to the script.
+
+In AO type 
+
+<font color = yellow>/aa.txt tykki</font>
+
+This will run the auto assist script, it will /assist the player called tykki (target who they are fighting).
+Then it will wait a second a run the same script again.
+
+You then just have to hit Q fire those special and be confident that you are always attacking the same mob as the caller.
+This isn't ideal if you are a healer, as when you try to heal someone, your target will change to the mob.
+
+<header2>Auto Pet Attack<end>
+
+This script will make pets auto attack acharacters fighting target.
+
+Create a new file, call it pa, so the file will be pa.txt.
+
+Open to edit in Notepad, and enter the following.
+
+<font color = green>/assist %1
+/delay 2000
+/pet attack
+/pa.txt %1</font>
+
+Hopefully you now see how this will work.  
+In AO enter the following
+
+<font color = yellow>/pa.txt stor</font>
+
+This run automatically tell the pets to attack the mob that stor is fighting.
+So in this situation you could be a pet class using this to save telling your pets to attack.
+I put a two second delay in here, as a pet class you might want to cast other things, so adjust the delay as needed.
+
+In some cases I might want to have my pets assist one toon, but I want to assist another.
+Perhaps a city raid, where the tank always goes for the Hacker first, but then we also have a caller who takes out any zix spawners.
+
+For this I would have a script like.
+
+<font color = green>/assist %1
+/pet attack
+/assist %2
+/delay 2000
+/cityraid %1 %2</font>
+
+So here I am going to tell the pets to assist one player, while I assist another, in AO I would enter.
+
+<font color =yellow>/cityraid.txt stor snake</font>
+
+So the pets will attack who stor is attacking whilst I will then attack who snake is attacking.
+
+Hopefully this has been of some help to you.
+
+
+	
+	
