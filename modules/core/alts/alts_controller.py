@@ -13,6 +13,7 @@ class AltsController:
         self.bot = registry.get_instance("bot")
         self.alts_service: AltsService = registry.get_instance("alts_service")
         self.buddy_service = registry.get_instance("buddy_service")
+        self.text = registry.get_instance("text")
         self.util = registry.get_instance("util")
 
     @command(command="alts", params=[NamedParameters(["sort_by"])], access_level="all",
@@ -26,7 +27,7 @@ class AltsController:
             named_params.sort_by = "level"
 
         alts = self.alts_service.get_alts(request.sender.char_id, named_params.sort_by)
-        blob = self.format_alt_list(alts)
+        blob = self.format_alt_list(alts, named_params.sort_by, "alts")
 
         return ChatBlob(f"Alts of {alts[0].name} ({len(alts)})", blob)
 
@@ -102,7 +103,7 @@ class AltsController:
             named_params.sort_by = "level"
 
         alts = self.alts_service.get_alts(char.char_id, named_params.sort_by)
-        blob = self.format_alt_list(alts)
+        blob = self.format_alt_list(alts, named_params.sort_by, f"alts {char.name}")
 
         return ChatBlob(f"Alts of {alts[0].name} ({len(alts)})", blob)
 
@@ -146,13 +147,68 @@ class AltsController:
         else:
             raise Exception("Unknown msg: " + msg)
 
-    def format_alt_list(self, alts):
-        blob = ""
-        for alt in alts:
+    def get_title_level(self, level):
+        if level < 15:
+            return 1
+        elif level < 50:
+            return 2
+        elif level < 100:
+            return 3
+        elif level < 150:
+            return 4
+        elif level < 190:
+            return 5
+        elif level < 205:
+            return 6
+        else:
+            return 7
 
-            blob += "<highlight>%s</highlight> (%d/<green>%d</green>) %s %s" % (
-                alt.name, alt.level, alt.ai_level, alt.faction, alt.profession)
-            if self.buddy_service.is_online(alt.char_id):
-                blob += " [<green>Online</green>]"
-            blob += "\n"
+    def get_colored_faction(self, faction):
+        if faction == "Omni":
+            return "<blue>Omni</blue>"
+        elif faction == "Neutral":
+            return "<white>Neutral</white>"
+        elif faction == "Clan":
+            return "<orange>Clan</orange>"
+        return faction
+
+    def format_alt_entry(self, alt):
+        faction = self.get_colored_faction(alt.faction)
+        line = "<highlight>%s</highlight> (%d / <green>%d</green>) %s %s" % (
+            alt.name, alt.level, alt.ai_level, faction, alt.profession)
+        if self.buddy_service.is_online(alt.char_id):
+            line += " [<green>Online</green>]"
+        return line
+
+    def format_alt_list(self, alts, sort_by, sort_cmd_prefix):
+        sort_links = []
+        for option in self.SORT_OPTIONS:
+            if option == sort_by:
+                sort_links.append(f"<highlight>{option.capitalize()}</highlight>")
+            else:
+                sort_links.append(self.text.make_tellcmd(option.capitalize(), f"{sort_cmd_prefix} --sort_by={option}"))
+        blob = "Sort by: " + " | ".join(sort_links) + "\n\n"
+
+        if sort_by == "level":
+            alts_by_tl = {}
+            for alt in alts:
+                tl = self.get_title_level(alt.level)
+                alts_by_tl.setdefault(tl, []).append(alt)
+
+            for tl_alts in alts_by_tl.values():
+                tl_alts.sort(key=lambda a: (-a.level, -a.ai_level, a.name.lower()))
+
+            for tl in range(7, 0, -1):
+                blob += f"<yellow>TITLE LEVEL {tl}</yellow>\n"
+                for alt in alts_by_tl.get(tl, []):
+                    blob += self.format_alt_entry(alt) + "\n"
+                blob += "\n"
+        else:
+            prev_profession = None
+            for alt in alts:
+                if sort_by == "profession" and prev_profession is not None and alt.profession != prev_profession:
+                    blob += "\n"
+                prev_profession = alt.profession
+
+                blob += self.format_alt_entry(alt) + "\n"
         return blob
