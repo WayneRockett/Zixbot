@@ -180,7 +180,7 @@ class AltsController:
             line += " [<green>Online</green>]"
         return line
 
-    def format_alt_list(self, alts, sort_by, sort_cmd_prefix):
+    def format_alt_list(self, alts, sort_by="level", sort_cmd_prefix="alts"):
         sort_links = []
         for option in self.SORT_OPTIONS:
             if option == sort_by:
